@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @najeedrana
-- 👀 I’m interested in machine learning, web development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested  web development
+- 🌱 I’m currently learning html,css and javascript
 - 📫 njdrna@gmail.com
 
 <!---
