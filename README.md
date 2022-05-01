@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @najeedrana
-- 👀 I’m interested  web development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning html,css and javascript
 - 📫 njdrna@gmail.com
 
